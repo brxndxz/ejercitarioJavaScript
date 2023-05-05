@@ -1,0 +1,19 @@
+body{
+    background-color: aliceblue;
+}
+#contenido{
+    width: 200px;
+    text-align: center;
+    border: 3px;
+    height: 100px;
+    border-color: black;
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 1%;
+    margin-left: 10px;
+}
+#boton{
+    margin-left: 10px;
+}
+
+
